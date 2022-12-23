@@ -1,0 +1,23 @@
+h1,
+h2 {
+    font-size: 2rem;
+    font-weight: bolder;
+    margin: 1rem 0;
+}
+
+.box {
+    background-color: #016BFA;
+    padding: 1rem;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    min-height: 50px;
+}
+
+.box.box-green {
+    background-color: green;
+}
+
+.sesta-riga {
+    border-bottom: 20px solid white;
+}
