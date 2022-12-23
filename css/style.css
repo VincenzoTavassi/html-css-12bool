@@ -15,7 +15,9 @@ h2 {
 }
 
 .box.box-green {
-    background-color: green;
+    background-color: #00E165;
+    border: none;
+    margin: 0 1px;
 }
 
 .sesta-riga {
